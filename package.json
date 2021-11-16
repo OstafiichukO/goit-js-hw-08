@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OstafiichukO/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OstafiichukO/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/OstafiichukO/goit-js-hw-08#readme",
+  "dependencies": {
+    "simplelightbox": "^2.10.1"
+  }
+}
