@@ -2,6 +2,11 @@
 import { galleryItems } from './gallery-items';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
+
+// new SimpleLightbox('.some-element a', {
+//   /* options */
+// });
+
 // Change code below this line
 
 console.log(galleryItems);
