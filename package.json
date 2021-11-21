@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/OstafiichukO/goit-js-hw-08.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -18,6 +17,7 @@
   },
   "homepage": "https://github.com/OstafiichukO/goit-js-hw-08#readme",
   "dependencies": {
-    "simplelightbox": "^2.10.1"
+    "simplelightbox": "^2.10.1",
+    "validator": "^13.7.0"
   }
 }
